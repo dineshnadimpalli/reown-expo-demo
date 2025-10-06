@@ -14,9 +14,10 @@ A comprehensive, Ethereum wallet connection and transaction testing app built wi
 
 ## 📱 Demo
 
-<video src="./assets/demos/reown-expo-demo.mp4" width="100%" controls>
+<video src="https://github.com/user-attachments/assets/7584606f-d018-4912-869d-9e2910dbd767" width="100%" controls>
   Your browser does not support the video tag.
 </video>
+
 
 ## ✨ Features
 
